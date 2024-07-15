@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "title": "Praxis Kappelihof, Buchs",
-        "description": "Ihre Hausarztpraxis in St. Gallen, - Doktor. Berg"
+        "title": "Praxis Kirchbühl, Stäfa",
+        "description": "Ihre Hausarztpraxis in Stäfa, - Doktor. Fischer"
     },
     "modules": {
         "ScrollUp": true,
@@ -16,6 +16,6 @@
         "Testimonials": false,
         "Pricing": false,
         "Blog": false,
-        "Contact": false
+        "Contact": true
     }
 }
