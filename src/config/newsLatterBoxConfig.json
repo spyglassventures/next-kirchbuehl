@@ -3,28 +3,25 @@
     "address": {
         "title": "Adresse",
         "content": [
-            "Hausarztpraxis Buchs AG (Praxis Kappelihof)",
-            "Grünaustrasse 1",
-            "9470 Buchs SG",
-            "E-Mail: praxisbuchs@hin.ch",
-            "Telefon: +41 81 756 21 21",
-            "CHE-459.995.311"
+            "Praxis Kirchbühl",
+            "Schmittenbachstrasse 18",
+            "8712 Stäfa ZH",
+            "E-Mail: praxiskirchbuehl@hin.ch",
+            "Telefon: +41 44 926 2444",
+            "CHE-329.592.451"
         ]
     },
     "openingHours": {
         "title": "Öffnungszeiten",
         "hours": [
             [
-                "Montag - Mittwoch:",
+                "Montag - Donnerstag:",
                 "08:00 - 12:00 Uhr und 14:00 - 18:00 Uhr"
             ],
-            [
-                "Donnerstag:",
-                "08:00 - 16:00 Uhr (Sprechstunde bis 12:00 Uhr)"
-            ],
+            
             [
                 "Freitag:",
-                "08:00 - 12:00 Uhr und 13:00 - 17:00 Uhr"
+                "08:00 - 12:00 Uhr"
             ],
             [
                 "Samstag:",
@@ -42,7 +39,7 @@
         "numbers": [
             [
                 "Notdienst:",
-                "0800 740 742"
+                "0800 33 66 55"
             ],
             [
                 "Internationaler Notruf:",
@@ -127,14 +124,7 @@
     "vacations": {
         "title": "Ferien/Fortbildung",
         "content": [
-            [
-                "Fortbildung:",
-                "15. März - 16. März, 24"
-            ],
-            [
-                "Sommerurlaub:",
-                "20. Juli - 04. August, 24"
-            ],
+            
             [
                 "Weihnachtsferien:",
                 "23. Dez. - 5. Januar, 25"
