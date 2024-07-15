@@ -1,13 +1,13 @@
 {
   "_comment": "// # src/config/aboutPageContent.json",
   "metadata": {
-    "title": "Das Team der Praxis Kappelihof",
-    "description": "Dr. med. Christoph Berg und das MPA Team der Praxis Kappelihof in Buchs, SG"
+    "title": "Das Team der Praxis Kirchbühl",
+    "description": "Dr. med. Georg Fischer und das MPA Team der Praxis Kirchbühl in Stäfa, ZH"
   },
   "pageContent": {
     "Breadcrumb": {
-      "pageName": "Die Praxis Kappelihof",
-      "description": "Dr. med. Christoph Berg und das MPA Team der Praxis Kappelihof in Buchs, SG."
+      "pageName": "Die Praxis Kirchbühl",
+      "description": "Dr. med. Georg Fischer und das MPA Team der Praxis Kirchbühl in Stäfa, ZH."
     }
   }
 }
