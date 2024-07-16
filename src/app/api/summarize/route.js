@@ -1,4 +1,6 @@
 //src/app/api/summarize/route.js
+// FOR PDF SUMMARIZATION
+
 import { OpenAI } from 'openai';
 import { NextResponse } from 'next/server';
 
