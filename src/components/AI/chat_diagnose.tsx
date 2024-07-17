@@ -47,6 +47,12 @@ export default function Chat_diagnose() {
         Nenne einen Therapieansatz, der auf den vorliegenden Informationen basiert. Verweise mittels "-> $Differenzialdiagnosen" die du in Punkt 3 erstellt hast.
         Mache diese für alle gennanten Diagnosen.
 
+        7. Abgabe an Spezialisten:
+        Bei welchen Symptomen soll der Hausarzt gemäss Leitlinien an einen Spezialisten überweisen? 
+        Was sind die Kriterien für eine Überweisung und was würde beim Spezialisten abgeklärt werden?
+        Wie kann sichergestellt werden, dass nichts Gravierendes übersehen wird? Insb. Onkologe, Kardiologe, Pneumologe.
+        
+
         Keine Einleitung, kein Schlusssatz. Überschriften mit ** vor und nach dem Text kennzeichnen.
         
        
@@ -145,6 +151,7 @@ export default function Chat_diagnose() {
                 <li onClick={() => handleLiClick('Kopfschmerzen 3 T, 45 J, w')}>Kopfschmerzen 3 T, 45 J, w</li>
                 <li onClick={() => handleLiClick('w, 20j, Fieber, 38, seit 2 T, Diabetes')}>w, 20j, Fieber, 38, seit 2 T, Diabetes</li>
                 <li onClick={() => handleLiClick('Bauchschmerzen, 25 J, m, Ibuprofen')}>Bauchschmerzen, 25 J, m, Ibuprofen</li>
+                <li onClick={() => handleLiClick('Ziehen in der Brust, 42, w, Erkältung')}>Ziehen in Brust, 42, w, letzte W. Erkältung</li>
               </ul>
               <p className='p-1 font-semibold text-zinc-900 dark:text-zinc-100 mt-3'>Bekannte Abkürzungen:</p>
               <ul className='p-1 mt-1 text-sm text-zinc-700 dark:text-zinc-300'>

@@ -1,5 +1,6 @@
 {
     "hero": {
+        "showBackground": true,
         "backgroundClass": "bg-white dark:bg-gray-dark",
         "title": "Herzlich Willkommen in der Praxis Kirchbühl",
         "description": "Das Wohl unserer Patienten steht im Mittelpunkt unserer ärztlichen Bemühungen. Mit der Zielsetzung, die medizinische Versorgung auf höchstem Niveau zu halten, bieten wir moderne Geräte, eine entsprechende Infrastruktur, patientenfreundliche Sprechzeiten und ein gut ausgebildetes Praxisteam.",
