@@ -35,9 +35,15 @@ const Hero = () => {
     <>
       <section
         id="home"
-        className={`relative z-10 overflow-hidden ${heroConfig.hero.backgroundClass} pb-8 pt-[120px] md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[100px] 2xl:pt-[210px]`}
+        className={`relative z-10 overflow-hidden pb-8 pt-[120px] md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[100px] 2xl:pt-[210px] ${heroConfig.hero.backgroundClass}`}
+        style={{
+          backgroundImage: heroConfig.hero.showBackground ? `url('/images/hero/background.jpg')` : 'none',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+        }}
       >
-        <div className="container">
+        {heroConfig.hero.showBackground && <div className="absolute inset-0 bg-white opacity-80 dark:bg-black"></div>}
+        <div className="container relative z-10"> {/* Ensure content is above the overlay */}
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4">
               <div className="mx-auto max-w-[800px] text-center">
