@@ -32,6 +32,8 @@ export default function TravelRecommendationsBot() {
           3. Medikamente:
           4. Andere relevante Informationen:
           5. Folgefragen / Schritte.
+          6. Besondere Gebiete im Land: Wird ein touristisches Ziel mit bekannter med./infektiöser Gefahrensiatuion in der Nähe vom Reiseort besucht? z.B. Gebirge, Grenzregion, Hochland, Dschungel, Wüste? Auf was würde dies Einfluss haben? Nenne die Gebite und die möglichen Auswirkungen.
+          7. Empfehlungen für die Reiseapotheke: Welche Medikamente sollten mitgenommen werden? Was
 
           Keine Einleitung, keinen Hinweis auf Arzt. Hohe Informationsdichte mit Ärzten als Zielgruppe.
            W = Woche, M = Monat, K = Krankheit, z.B. Asthma, Diabetes, Schwangerschaft.`
