@@ -1,5 +1,5 @@
 {
-    "isModalEnabled": true,
+    "isModalEnabled": false,
     "modalContent": {
         "title": "Aktuelle Nachrichten",
         "messages": [
