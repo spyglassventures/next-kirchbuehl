@@ -1,42 +1,73 @@
 {
     "team": [
         {
-            "src": "/images/about/old/16.jpg",
+            "src": "/images/about/DrFischer-min.jpg",
             "caption": "Dr. med. Georg Fischer, Facharzt Allgemeine Medizin"
         },
         {
-            "src": "/images/about/old/Rahel.jpg",
+            "src": "/images/about/DrEckardt-min.jpg",
+            "caption": "Dr. med. Helmut Eckardt, Facharzt Allgemeine Medizin"
+        },
+        {
+            "src": "/images/about/DrRosenbaum-min.jpg",
+            "caption": "Dr. med. Christoph Rosenbaum, Facharzt Chirurgie"
+        },
+        {
+            "src": "/images/about/Mpa1-min.jpg",
             "caption": "Angelika Bergmann, MPA"
         },
         {
-            "src": "/images/about/old/Ledi.jpg",
+            "src": "/images/about/Mpa2-min.jpg",
             "caption": "Angelika Bergmann, MPA"
         },
         {
-            "src": "/images/about/old/Karin.jpg",
+            "src": "/images/about/Mpa3-min.jpg",
             "caption": "Angelika Bergmann, MPA"
         },
+       
         {
-            "src": "/images/about/old/Eliza.jpg",
+            "src": "/images/about/Mpa5-min.jpg",
+            "caption": "Angelika Bergmann, MPA in Ausbildung"
+        },
+        {
+            "src": "/images/about/Mpa6-min.jpg",
             "caption": "Angelika Bergmann, MPA in Ausbildung"
         }
     ],
     "praxis": [
+        
         {
-            "src": "/images/about/Sprechzimmer.jpg",
-            "caption": "Sprechzimmer"
-        },
-        {
-            "src": "/images/about/Empfang.jpg",
+            "src": "/images/about/Impression1-min.jpg",
             "caption": "Empfang"
         },
         {
-            "src": "/images/about/Labor.jpg",
+            "src": "/images/about/Impression2-min.jpg",
             "caption": "Labor"
         },
         {
-            "src": "/images/about/Wartezimmer.jpg",
+            "src": "/images/about/Impression3-min.jpg",
+            "caption": "Wartezimmer"
+        },
+        {
+            "src": "/images/about/Impression4-min.jpg",
+            "caption": "Wartezimmer"
+        },
+        {
+            "src": "/images/about/Impression5-min.jpg",
+            "caption": "Wartezimmer"
+        },
+        {
+            "src": "/images/about/Impression6-min.jpg",
+            "caption": "Wartezimmer"
+        },
+        {
+            "src": "/images/about/Impression7-min.jpg",
+            "caption": "Wartezimmer"
+        },
+        {
+            "src": "/images/about/Impression8-min.jpg",
             "caption": "Wartezimmer"
         }
+
     ]
 }
