@@ -25,12 +25,15 @@
                 "EKG",
                 "Röntgen",
                 "24h-Blutdruckmessung",
+                "Langzeit-EKG",
+                "Schlafapnoeuntersuchung",
                 "Ultraschalldiagnostik",
                 "Lungenfunktionsmessung",
                 "Blutsauerstoffmessung",
                 "Kleinchirurgische Eingriffe",
                 "Inkontinenzartikel",
-                "orthopädische Hilfesmittel",
+                "orthopädische Hilfsmittel",
+                "Kompressionsstrümpfe",
                 "Nachtuntersuchungen"
             ]
         },
